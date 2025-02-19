@@ -10,3 +10,7 @@
 ``` javascript
 var myvar="Hello world"
 ```
+
+- [x] I am Studying
+- [] I should also practice mmy drums
+- [x] By God's grace i will meet my targets
